@@ -1,17 +1,10 @@
-## About Us
-
-Eagle Rock Analytics is an environmental research and data analysis firm based in **Sacramento, CA**, specializing in climate science applications and geospatial data analysis. Our approach is rooted in **empathy**, **transparency**, and a commitment to **science without ego**, ensuring that our work is client-focused and contributes to the **public good**.
-
-## Our Mission
-
-At Eagle Rock Analytics, our mission is to employ **actionable science**, translating complex environmental data into practical solutions that directly address client needs. Fueled by empathy, transparency, and a commitment to science without ego, we strive to create an inclusive workplace and prioritize projects that contribute to societal well-being, advancing scientific knowledge and understanding.
+Eagle Rock Analytics is an environmental research and data analysis firm based in **Sacramento, CA**, specializing in climate science applications and geospatial data analysis. Our approach is rooted in **empathy**, **transparency**, and a commitment to **science without ego**, ensuring that our work is client-focused and contributes to the **public good**. Our mission is to employ **actionable science**, translating complex environmental data into practical solutions that directly address client needs. 
 
 <div align="center">
   
 </div>
 
 ## Our Values
-
 | 🎯 **Actionable Science** | 💝 **Empathy** |
 |--------------------------|-----------------|
 | We focus on coming up with actionable outcomes that translate large and complex environmental data into understandable and usable products that directly address client, industry, and community partner needs. | Our secret sauce is empathy. Coupled with active listening, we deeply engage with clients and partners to understand what problems need solving, then develop scientific approaches to solve them. Being empathetic naturally leads to an inclusive and welcoming workplace. |
@@ -23,23 +16,6 @@ At Eagle Rock Analytics, our mission is to employ **actionable science**, transl
 | 📖 **Open and Transparent** |
 |------------------------------|
 | We are an open book when working for our clients. Where practical, we favor open source solutions and contribute to open source programming and open data efforts. |
-
-
----
-
-## Services Offered
-
----
-
-## Selected Projects
-
-| **[cal-adapt.org](https://cal-adapt.org)** | **[climakitae](https://github.com/cal-adapt/climakitae) & [climakitaegui](https://github.com/cal-adapt/climakitaegui)** |
-|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| California's official climate adaptation portal providing access to climate data, tools, and resources for decision-makers and researchers. | Python toolkit (and associated visualization tools) for climate data analysis and downscaling, providing tools for accessing and analyzing climate projections across California. |
-
-| **[Historical Observations Data Platform](https://github.com/Eagle-Rock-Analytics/historical-obs-platform)** | **[cadcat](https://cadcat.s3.amazonaws.com/index.html)** |
-|------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| A cloud-based, historical weather observations data platform to enable California's energy sector access to high-quality, open climate and weather data. | California Data Catalog - S3 explorer access to California's climate and environmental datasets. |
 
 ## Get Involved
 
@@ -57,17 +33,3 @@ We're committed to open science and transparency. Check out our repositories and
 - **Email**: info@eaglerockanalytics.com
 - **Address**: 3669 57th St, Sacramento, CA 95820
 - **LinkedIn**: [Eagle Rock Analytics](https://www.linkedin.com/company/eagle-rock-analytics/)
-
-### Current Opportunities
-We're always looking for talented **climate scientists**, **data analysts**, and **Python developers** passionate about environmental research and public good. Check our careers page for open positions!
-
-<div align="center">
-
----
-
-[![Sacramento](https://img.shields.io/badge/📍-Sacramento%2C%20CA-green?style=for-the-badge)](https://goo.gl/maps/sacramento)
-[![Email](https://img.shields.io/badge/📧-info%40eaglerockanalytics.com-blue?style=for-the-badge)](mailto:info@eaglerockanalytics.com)
-[![LinkedIn](https://img.shields.io/badge/💼-Eagle%20Rock%20Analytics-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/eagle-rock-analytics/)
-</div>
-
----
