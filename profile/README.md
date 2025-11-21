@@ -6,20 +6,11 @@ Eagle Rock Analytics is an environmental research and data analysis firm based i
 
 ## Our Values
 
-### 🎯 Actionable Science
-We focus on coming up with actionable outcomes that translate large and complex environmental data into understandable and usable products that directly address client, industry, and community partner needs.
-
-### 📖 Open and Transparent
-We are an open book when working for our clients. Where practical, we favor open source solutions and contribute to open source programming and open data efforts.
-
-### 🔬 Science without Ego
-We perform work without ego, aligning our team goals with client goals and vision. Projects serve clients, not us. We produce client-specific custom tools, analytics, and reports for each project.
-
-### 💝 Empathy
-Our secret sauce is empathy. Coupled with active listening, we deeply engage with clients and partners to understand what problems need solving, then develop scientific approaches to solve them. Being empathetic naturally leads to an inclusive and welcoming workplace.
-
-### 🌱 For Public Good
-We prioritize projects that serve the public good and advance scientific knowledge. We don't seek profit on projects with state, federal, and non-profit entities, allowing us to devote more resources towards staff time and respect limited funding for critical science.
+- **Open and Transparent** — We are an open book when working for our clients. Where practical, we favor open source solutions and contribute to open source programming and open data efforts.
+- **Actionable Science** — We focus on coming up with actionable outcomes that translate large and complex environmental data into understandable and usable products that directly address client, industry, and community partner needs.
+- **Science without Ego** — We perform work without ego, aligning our team goals with client goals and vision. Projects serve clients, not us. We produce client-specific custom tools, analytics, and reports for each project.
+- **For Public Good** — We prioritize projects that serve the public good and advance scientific knowledge. We don't seek profit on projects with state, federal, and non-profit entities, allowing us to devote more resources towards staff time and respect limited funding for critical science.
+- **Empathy** — Our secret sauce is empathy. Coupled with active listening, we deeply engage with clients and partners to understand what problems need solving, then develop scientific approaches to solve them. Being empathetic naturally leads to an inclusive and welcoming workplace.
 
 ## Get Involved
 
