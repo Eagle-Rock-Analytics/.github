@@ -27,20 +27,7 @@ At Eagle Rock Analytics, our mission is to employ **actionable science**, transl
 
 ---
 
-### Leadership Team
-
-
-<div align="center">
-
-| [<img src="assets/dr_owen_doherty.jpg" width="150" height="150">](https://www.linkedin.com/in/owen-doherty-climate/) | [<img src="assets/mark_koenig.jpg" width="150" height="150">](https://www.linkedin.com/in/mark-koenig-7920486/) | [<img src="assets/dr_jacola_roman.jpg" width="150" height="150">](https://www.linkedin.com/in/jacola-roman-4464b8178/) |
-|:---:|:---:|:---:|
-| **Dr. Owen Doherty**<br>*Principal Research Scientist*<br>PhD Marine & Atmospheric Sciences | **Mark Koenig**<br>*VP Operations & Strategy*<br>University of Rochester | **Dr. Jacola Roman**<br>*Senior Atmospheric Scientist*<br>PhD Atmospheric Science |
-
-| [<img src="assets/dr_neil_schroeder.jpg" width="150" height="150">](https://www.linkedin.com/in/nschroed/) | [<img src="assets/dr_victoria_ford.jpg" width="150" height="150">](https://www.linkedin.com/in/victorialford/) |
-|:---:|:---:|
-| **Dr. Neil Schroeder**<br>*Senior Developer*<br>PhD High Energy Physics | **Dr. Victoria Ford**<br>*Atmospheric Scientist*<br>PhD Geography |
-
-</div>
+## Services Offered
 
 ---
 
